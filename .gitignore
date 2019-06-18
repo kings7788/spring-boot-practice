@@ -22,7 +22,9 @@
 /nbbuild/
 /dist/
 /nbdist/
-/.nb-gradle/
-/LOG_PATH_IS_UNDEFINED/
+/.nb-gradle/	
 
-	
+### bryant ###
+/LOG_PATH_IS_UNDEFINED/*
+/bin/*
+
